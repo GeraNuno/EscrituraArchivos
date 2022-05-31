@@ -14,15 +14,19 @@ namespace EscrituraArchivos
         {
             StreamWriter sw = new StreamWriter("ejemplo.txt",true);
 
-            string[] lines = {
-                "Esta es la información de la primera línea",
-                "Esta es la segunda línea",
-                "Fin del texto"
-            };
+            int cont = 0, turno = 1;
+            string line;
 
-            foreach (string line in lines)
+            Console.Write("¿Cuántas personas va a capturar? ");
+            cont = int.Parse(Console.ReadLine());
+
+            while(turno <= cont)
             {
+                Console.Write("Escriba el nombre de la persona " + turno + ": ");
+                line = Console.ReadLine();
                 sw.WriteLine(line);
+                turno++;
+                Console.Clear();
             }
             sw.Close();
 
