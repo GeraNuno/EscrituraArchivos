@@ -1,0 +1,4 @@
+Nombre		Apellido P	Apellido M	Edad	No. Control
+Gerardo		Nuño		Reyes		18	21212008
+Yael		Ruedas		Castañeda	18	20201997
+Antonio		Torres		Aparicio	19	20203311
