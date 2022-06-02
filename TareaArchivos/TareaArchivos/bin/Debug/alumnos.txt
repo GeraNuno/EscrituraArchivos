@@ -1,4 +1,10 @@
-Nombre		Apellido P	Apellido M	Edad	No. Control
-Gerardo		Nuño		Reyes		18	21212008
-Yael		Ruedas		Castañeda	18	20201997
-Antonio		Torres		Aparicio	19	20203311
+Nombre Alumno: Gerardo Nuño Reyes
+Edad: 18 años
+No. Control: 21212008
+Promedio: 94.66666
+
+Nombre Alumno: Denise Lopez Gutierrez
+Edad: 21 años
+No. Control: 21202558
+Promedio: 61.66667
+
